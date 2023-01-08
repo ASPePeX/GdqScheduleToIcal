@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GdqScheduleToIcal": {
+      "commandName": "Project",
+      "commandLineArgs": "-u https://gamesdonequick.com/schedule/41"
+    }
+  }
+}
