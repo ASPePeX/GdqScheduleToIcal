@@ -54,8 +54,8 @@ namespace GdqScheduleToIcal
                         var serializer = new CalendarSerializer();
                         var serializedCalendar = serializer.SerializeToString(calendar);
 
-                        Directory.CreateDirectory("../../../docs");
-                        File.WriteAllText("../../../docs/agdq2023.ical", serializedCalendar);
+                        Directory.CreateDirectory("docs");
+                        File.WriteAllText("docs/agdq2023.ical", serializedCalendar);
                     }
                     else
                     {
