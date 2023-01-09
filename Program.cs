@@ -61,7 +61,7 @@ namespace GdqScheduleToIcal
                         var serializer = new CalendarSerializer();
                         var serializedCalendar = serializer.SerializeToString(calendar);
 
-                        serializedCalendar = Regex.Replace(serializedCalendar, @"^DTSTAMP:.*?$\n", "");
+                        serializedCalendar = Regex.Replace(serializedCalendar, @"DTSTAMP:.*?\n", "");
 
 #pragma warning restore SYSLIB1045 // Convert to 'GeneratedRegexAttribute'
 
