@@ -49,9 +49,10 @@ namespace GdqScheduleToIcal
                         //var schedulePageSource = HttpUtility.HtmlDecode(File.ReadAllText("schedulePageSource.html"));
 
 #pragma warning disable SYSLIB1045 // Convert to 'GeneratedRegexAttribute'.
+
                         schedulePageSource = Regex.Replace(schedulePageSource, @"^\s", @"^");
                         schedulePageSource = Regex.Replace(schedulePageSource, @"\s$", @"$");
-#pragma warning restore SYSLIB1045 // Convert to 'GeneratedRegexAttribute'
+
 
                         var calendar = ParseSchedulePage(schedulePageSource);
 
@@ -59,6 +60,10 @@ namespace GdqScheduleToIcal
 
                         var serializer = new CalendarSerializer();
                         var serializedCalendar = serializer.SerializeToString(calendar);
+
+                        serializedCalendar = Regex.Replace(serializedCalendar, @"^DTSTAMP:.*?$\n", "");
+
+#pragma warning restore SYSLIB1045 // Convert to 'GeneratedRegexAttribute'
 
                         Directory.CreateDirectory("docs");
                         File.WriteAllText("docs/agdq2023.ical", serializedCalendar);
