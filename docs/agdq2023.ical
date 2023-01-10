@@ -13,14 +13,24 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Runner: Interview Crew\nRun: Any% — Switch\nHost: Xenadir\nSet
- up Lenght: 0:27:00
-DTEND:20230108T172633Z
+DESCRIPTION:Runner: Interview Crew\nRun: We're Back — GDQ Studio\nHost: Xe
+ nadir\nSetup Lenght:
+DTEND:20230108T165700Z
 DTSTART:20230108T163000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Pre-Show
 UID:fb212b95-8577-7562-cca6-1f5501961416
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: LonTr0\nRun: Any% — Switch\nHost: Xenadir\nSetup Lengh
+ t: 0:44:27
+DTEND:20230108T175333Z
+DTSTART:20230108T165700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Splatoon 3
+UID:eacddc3d-f884-1026-e13e-09892e2633d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Player 5\nRun: Any% — Switch\nHost: Xenadir\nSetup Len
@@ -444,6 +454,16 @@ SUMMARY:Burnout Paradise Remastered
 UID:f07cd5c5-b635-d6c3-fadd-df1c7f900983
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Runner: Ratyu\nRun: Any%(No Abilities) — Switch\nHost: Argick\
+ nSetup Lenght: 0:10:00
+DTEND:20230110T163000Z
+DTSTART:20230110T135000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:ASTRAL CHAIN
+UID:cf4478e5-a684-7fd9-83fc-9a4f4ed602c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Runner: KeynNaka\nRun: Solo All character NG+ — XBOX 360\nHost
  : THEKyleThomas\nSetup Lenght: 0:25:00
 DTEND:20230110T172500Z
@@ -534,14 +554,24 @@ SUMMARY:Ratchet & Clank: Up Your Arsenal
 UID:f08dff1b-4b49-153a-b3c2-b2502ca2807f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Interview Crew\nRun: End of Zoe Any% — PC\nHost: AnEte
- rnalEnigma\nSetup Lenght: 0:15:00
-DTEND:20230111T050800Z
+DESCRIPTION:Runner: Interview Crew\nRun: Recap% — Live\nHost: AnEternalEni
+ gma\nSetup Lenght:
+DTEND:20230111T050100Z
 DTSTART:20230111T044600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Daily Recap - Tuesday
 UID:2e099c35-493a-8fa5-8952-4c61cfb01107
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Maxylobes\nRun: End of Zoe Any% — PC\nHost: AnEternalE
+ nigma\nSetup Lenght: 0:10:00
+DTEND:20230111T052300Z
+DTSTART:20230111T050100Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Resident Evil 7
+UID:1dee96e1-8ec0-8fb3-bdf8-36ae2fc0ca7f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Nerd_Squared\nRun: 100% — PC\nHost: AnEternalEnigma\nS
@@ -704,14 +734,24 @@ SUMMARY:BONUS GAME 4 - Stray
 UID:7b77097a-72a9-1e8a-8514-a58933ffc1db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Interview Crew\nRun: 2v2 Lockout Bingo — PS2\nHost: Ko
- nception\nSetup Lenght: 0:15:00
-DTEND:20230112T044000Z
+DESCRIPTION:Runner: Interview Crew\nRun: Recap% — Live\nHost: Konception\n
+ Setup Lenght:
+DTEND:20230112T040000Z
 DTSTART:20230112T034500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Daily Recap - Wednesday
 UID:f5eac33c-3ad5-160b-f852-572d20711d9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: slvr__\, zacharylawrence\, Spudlyman\, Wed\nRun: 2v2 L
+ ockout Bingo — PS2\nHost: Konception\nSetup Lenght: 0:10:00
+DTEND:20230112T045500Z
+DTSTART:20230112T040000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Spyro 2: Ripto's Rage!
+UID:ecd9ad08-5420-b5bd-25ac-7d1f7136405c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Blaidan\nRun: White's Heaven Rush — PC\nHost: Koncepti
@@ -954,14 +994,24 @@ SUMMARY:BONUS GAME 5 - Mario Kart 8 Deluxe
 UID:c0cead83-3370-846b-ac82-55b96d729a72
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Interview Crew\nRun: All Story Missions — PC\nHost: fr
- ozenflygone\nSetup Lenght: 0:15:00
-DTEND:20230113T035400Z
+DESCRIPTION:Runner: Interview Crew\nRun: Recap% — Live\nHost: frozenflygon
+ e\nSetup Lenght:
+DTEND:20230113T024300Z
 DTSTART:20230113T022800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Daily Recap - Thursday
 UID:2f67aec8-f0ad-8702-7a25-1bb8807c63ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: LiquidWiFi\nRun: All Story Missions — PC\nHost: frozen
+ flygone\nSetup Lenght: 0:15:00
+DTEND:20230113T040900Z
+DTSTART:20230113T024300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:The Simpsons: Hit & Run
+UID:38e74500-283b-330a-8069-90ba9815e836
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ApacheSmash\, Vermillion\nRun: European Extreme Race —
@@ -1215,14 +1265,24 @@ SUMMARY:BONUS GAME 6 - StepMania
 UID:ce674a7a-781d-090d-b791-3102c084f2cb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Interview Crew\nRun: All Four Games any% No Wrong Warp
-  — SNES\nHost: SakuraTsubasa\nSetup Lenght: 0:15:00
-DTEND:20230114T053600Z
+DESCRIPTION:Runner: Interview Crew\nRun: Recap% — Live\nHost: Mr. Game and
+  Shout\nSetup Lenght:
+DTEND:20230114T041100Z
 DTSTART:20230114T035600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Daily Recap - Friday
 UID:b18e0323-6ff6-a45b-a5fc-bfc4307db237
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Skybilz\nRun: All Four Games any% No Wrong Warp — SNES
+ \nHost: SakuraTsubasa\nSetup Lenght: 0:10:00
+DTEND:20230114T055100Z
+DTSTART:20230114T041100Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Super Mario All-Stars Shuffler
+UID:4d7ac8a8-4657-0919-dc2b-4760b2138c01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Bar0ti\nRun: any% TAS — PC\nHost: SakuraTsubasa\nSetup
@@ -1425,13 +1485,33 @@ SUMMARY:Pokémon Legends: Arceus
 UID:aac4bf70-a916-900e-7458-46ac5d624ff1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Sent\, Mike Uyama\, JHobz\nRun: Any% Warpless — NES\nH
- ost: Skybilz\nSetup Lenght: 0:15:00
-DTEND:20230115T061300Z
+DESCRIPTION:Runner: Sent\, Mike Uyama\, JHobz\nRun: Recap 100% — Live\nHos
+ t: Skybilz\nSetup Lenght:
+DTEND:20230115T053300Z
 DTSTART:20230115T051800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Event Recap
 UID:1dd32bd1-a143-1a12-19a5-02f50b22f5e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: mitchflowerpower\nRun: Any% Warpless — NES\nHost: Skyb
+ ilz\nSetup Lenght: 0:15:00
+DTEND:20230115T062800Z
+DTSTART:20230115T053300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Super Mario Bros. 3
+UID:74ed6d95-b98a-31f4-573f-ce2621f44347
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: GDQ Studio\nRun: The End — GDQ\nHost: Skybilz\nSetup L
+ enght:
+DTEND:20230115T065800Z
+DTSTART:20230115T064300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Finale
+UID:c72a0416-3056-3c73-6dcc-c5e85e092c81
 END:VEVENT
 END:AGDQ 2023
