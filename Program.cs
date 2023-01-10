@@ -46,13 +46,12 @@ namespace GdqScheduleToIcal
                     if (!string.IsNullOrWhiteSpace(o.ScheduleUrl))
                     {
                         var schedulePageSource = HttpUtility.HtmlDecode(httpHelper.GetUrl(o.ScheduleUrl).Result);
-                        //var schedulePageSource = HttpUtility.HtmlDecode(File.ReadAllText("schedulePageSource.html"));
+                        //var schedulePageSource = HttpUtility.HtmlDecode(File.ReadAllText("https __gamesdonequick.com_schedule.htm"));
 
 #pragma warning disable SYSLIB1045 // Convert to 'GeneratedRegexAttribute'.
 
                         schedulePageSource = Regex.Replace(schedulePageSource, @"^\s", @"^");
                         schedulePageSource = Regex.Replace(schedulePageSource, @"\s$", @"$");
-
 
                         var calendar = ParseSchedulePage(schedulePageSource);
 
@@ -91,21 +90,21 @@ namespace GdqScheduleToIcal
                 {
                     var scheduleSource = matchListSchedule[0].Groups[1].Value;
 
-                    string patternEvent = @"<tr>\s*?<td class=""start-time text-right"">(.*?)</td>\s*?<td>(.*?)</td>\s*?<td>(.*?)</td>\s*?<td rowspan=""2"" class=""visible-lg text-center"">.*?(\d{1,2}:\d{2}:\d{2}).*?</td>\s*?</tr>\s*?<tr class=""second-row "">\s*?<td class=""text-right "">.*?(\d{1,2}:\d{2}:\d{2}).*?</td>\s*?<td>(.*?)</td>\s*?<td><i class=""fa fa-microphone""></i> (.*?)</td>";
+                    string patternEvent = @"<tr.*?>\s*?<td class=""start-time text-right"">(.*?)</td>\s*?<td>(.?<a.*?/a>\n?)?(.*?)</td>\s*?<td>(.*?)</td>\s*?<td rowspan=""2"" class=""visible-lg text-center"">.?(<i.*?/i>.?((\d{1,2}:\d{2}:\d{2})))?.?</td>\s*?</tr>\s*?<tr class=""second-row .*?"">\s*?<td class=""text-right "">.*?(\d{1,2}:\d{2}:\d{2}).*?</td>\s*?<td>(.*?)</td>\s*?<td><i class=""fa fa-microphone""></i> (.*?)</td>";
 
                     MatchCollection matchListEvents = Regex.Matches(scheduleSource, patternEvent, RegexOptions.Singleline, new TimeSpan(0, 1, 0));
 
                     foreach (Match match in matchListEvents.Cast<Match>())
                     {
-                        if (match != null && match.Groups.Count == 8)
+                        if (match != null && match.Groups.Count == 11)
                         {
                             var dtStart = new CalDateTime(DateTime.Parse(match.Groups[1].Value).ToUniversalTime());
-                            var game = match.Groups[2].Value;
-                            var runner = match.Groups[3].Value;
-                            var setupRaw = match.Groups[4].Value;
-                            var durationRaw = match.Groups[5].Value.ToString().Split(':');
-                            var rundesc = match.Groups[6].Value;
-                            var host = match.Groups[7].Value;
+                            var game = match.Groups[3].Value;
+                            var runner = match.Groups[4].Value;
+                            var setupRaw = match.Groups[7].Value;
+                            var durationRaw = match.Groups[8].Value.ToString().Split(':');
+                            var rundesc = match.Groups[9].Value;
+                            var host = match.Groups[10].Value;
 
                             //if (game.Contains("Dust"))
                             //{ }
@@ -136,6 +135,8 @@ namespace GdqScheduleToIcal
                         }
                     }
                 }
+
+                Console.WriteLine($"Found {calendar.Events.Count} events for calendar.");
 
                 return calendar;
             }
