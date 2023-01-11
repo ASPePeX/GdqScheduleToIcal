@@ -57,11 +57,8 @@ namespace GdqScheduleToIcal
 
                         var calendar = ParseSchedulePage(schedulePageSource);
 
-                        Match calendarName = Regex.Match(schedulePageSource, @"<h1 class=""text-gdq-red extra-spacing"">(.*?)</h1>");
+                        //Match calendarName = Regex.Match(schedulePageSource, @"<h1 class=""text-gdq-red extra-spacing"">(.*?)</h1>");
                         
-                        if (calendarName.Success)
-                            calendar.Name = calendarName.Groups[1].Value;
-
                         var serializer = new CalendarSerializer();
                         var serializedCalendar = serializer.SerializeToString(calendar);
 
