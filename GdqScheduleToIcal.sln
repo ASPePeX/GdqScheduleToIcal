@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdqScheduleToIcal", "GdqScheduleToIcal.csproj", "{13F8BD39-0944-48AA-8B15-BE2DB5C436FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GdqScheduleToIcal", "GdqScheduleToIcal.csproj", "{13F8BD39-0944-48AA-8B15-BE2DB5C436FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A114A20-68DB-46EB-9579-6C5FD4B0E3A5}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet-desktop.yml = .github\workflows\dotnet-desktop.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
