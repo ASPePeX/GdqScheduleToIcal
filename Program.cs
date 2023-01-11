@@ -26,6 +26,8 @@ namespace GdqScheduleToIcal
             {
                 [Option('u', "scheduleurl", Required = true, HelpText = "GDQ Schedule URL")]
                 public string? ScheduleUrl { get; set; }
+                [Option('o', "output", Required = true, HelpText = "Output file name")]
+                public string? OutputFileName { get; set; }
             }
 
             readonly ParserResult<Options> options;
@@ -43,10 +45,10 @@ namespace GdqScheduleToIcal
             {
                 options?.WithParsed(o =>
                 {
-                    if (!string.IsNullOrWhiteSpace(o.ScheduleUrl))
+                    if (!string.IsNullOrWhiteSpace(o.ScheduleUrl) && !string.IsNullOrWhiteSpace(o.OutputFileName))
                     {
                         var schedulePageSource = HttpUtility.HtmlDecode(httpHelper.GetUrl(o.ScheduleUrl).Result);
-                        //var schedulePageSource = HttpUtility.HtmlDecode(File.ReadAllText("https __gamesdonequick.com_schedule.htm"));
+                        //var schedulePageSource = HttpUtility.HtmlDecode(File.ReadAllText("schedulePageSource.html"));
 
 #pragma warning disable SYSLIB1045 // Convert to 'GeneratedRegexAttribute'.
 
@@ -55,7 +57,10 @@ namespace GdqScheduleToIcal
 
                         var calendar = ParseSchedulePage(schedulePageSource);
 
-                        calendar.Name = "AGDQ 2023";
+                        Match calendarName = Regex.Match(schedulePageSource, @"<h1 class=""text-gdq-red extra-spacing"">(.*?)</h1>");
+                        
+                        if (calendarName.Success)
+                            calendar.Name = calendarName.Groups[1].Value;
 
                         var serializer = new CalendarSerializer();
                         var serializedCalendar = serializer.SerializeToString(calendar);
@@ -65,7 +70,7 @@ namespace GdqScheduleToIcal
 #pragma warning restore SYSLIB1045 // Convert to 'GeneratedRegexAttribute'
 
                         Directory.CreateDirectory("docs");
-                        File.WriteAllText("docs/agdq2023.ical", serializedCalendar);
+                        File.WriteAllText("docs/" + o.OutputFileName, serializedCalendar);
                     }
                     else
                     {
@@ -135,8 +140,6 @@ namespace GdqScheduleToIcal
                         }
                     }
                 }
-
-                Console.WriteLine($"Found {calendar.Events.Count} events for calendar.");
 
                 return calendar;
             }
