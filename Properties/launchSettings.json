@@ -2,7 +2,7 @@
   "profiles": {
     "GdqScheduleToIcal": {
       "commandName": "Project",
-      "commandLineArgs": "-u https://gamesdonequick.com/schedule/41"
+      "commandLineArgs": "-u https://gamesdonequick.com/schedule/41 -o agdq2023.ical"
     }
   }
 }
