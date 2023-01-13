@@ -153,8 +153,8 @@ SUMMARY:Trifox
 UID:36b21313-6b99-cd50-4150-edf9fe920717
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: carrarium\nRun: Any% — PC\nHost: PippyInATopHat\nSetup
-  Lenght: 0:12:00
+DESCRIPTION:Runner: carrarium\nRun: Any% Unrestricted — PC\nHost: PippyInA
+ TopHat\nSetup Lenght: 0:12:00
 DTEND:20230227T214200Z
 DTSTART:20230227T211400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
