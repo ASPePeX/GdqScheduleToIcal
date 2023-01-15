@@ -1496,7 +1496,7 @@ UID:1dd32bd1-a143-1a12-19a5-02f50b22f5e2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: mitchflowerpower\nRun: Any% Warpless — NES\nHost: Skyb
- ilz\nSetup Lenght: 0:15:00
+ ilz\nSetup Lenght: 0:08:00
 DTEND:20230115T080800Z
 DTSTART:20230115T071300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1507,8 +1507,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: GDQ Studio\nRun: The End — GDQ\nHost: Skybilz\nSetup L
  enght:
-DTEND:20230115T083800Z
-DTSTART:20230115T082300Z
+DTEND:20230115T083100Z
+DTSTART:20230115T081600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Finale
