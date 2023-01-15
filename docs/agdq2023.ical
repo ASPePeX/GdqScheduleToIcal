@@ -1486,7 +1486,7 @@ UID:aac4bf70-a916-900e-7458-46ac5d624ff1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Sent\, Mike Uyama\, JHobz\nRun: Recap 100% — Live\nHos
- t: Skybilz\nSetup Lenght:
+ t: Skybilz\nSetup Lenght: 0:13:00
 DTEND:20230115T070000Z
 DTSTART:20230115T064500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1497,8 +1497,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: mitchflowerpower\nRun: Any% Warpless — NES\nHost: Skyb
  ilz\nSetup Lenght: 0:15:00
-DTEND:20230115T075500Z
-DTSTART:20230115T070000Z
+DTEND:20230115T080800Z
+DTSTART:20230115T071300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Super Mario Bros. 3
@@ -1507,8 +1507,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: GDQ Studio\nRun: The End — GDQ\nHost: Skybilz\nSetup L
  enght:
-DTEND:20230115T082500Z
-DTSTART:20230115T081000Z
+DTEND:20230115T083800Z
+DTSTART:20230115T082300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Finale
