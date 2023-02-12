@@ -334,7 +334,8 @@ SUMMARY:Fire Emblem: Three Houses
 UID:312dd56c-83b8-34ba-410d-221ec16671ac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Corvimae\nRun: Any% — DS\nHost: \nSetup Lenght: 0:17:00
+DESCRIPTION:Runner: Corvimae\nRun: Any% — DS\nHost: KungFuFruitCup\nSetup 
+ Lenght: 0:17:00
 DTEND:20230301T020900Z
 DTSTART:20230301T011900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -344,7 +345,7 @@ UID:49200fdf-f035-32cc-86ac-d02e51ce5f56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: flying fox\nRun: Tails Beat The Game — Game Gear\nHost
- : \nSetup Lenght: 0:12:00
+ : Tucabass\nSetup Lenght: 0:12:00
 DTEND:20230301T030100Z
 DTSTART:20230301T022600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
