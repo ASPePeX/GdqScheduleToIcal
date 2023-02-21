@@ -13,8 +13,9 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kungfufruitcup\, frozenflygone\nRun: Preshow — GDQ Stu
- dio\nHost: Interview team\nSetup Lenght:
+DESCRIPTION:Runner: Kungfufruitcup\, frozenflygone\nRun: Preshow and Inter
+ view with Malala Fund CEO Lena Alfi — GDQ Studio\nHost: Interview team\nS
+ etup Lenght:
 DTEND:20230226T180000Z
 DTSTART:20230226T173000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
