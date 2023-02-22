@@ -124,14 +124,14 @@ SUMMARY:Sleep
 UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kungfufruitcup\nRun: Charity% — GDQ Studio\nHost: Inte
- rview team\nSetup Lenght:
+DESCRIPTION:Runner: frozenflygone\, Char_bunny\, Corvimae\, bbrosef\nRun: 
+ Interview and Chat — GDQ Studio\nHost: Kungfufruitcup\nSetup Lenght:
 DTEND:20230227T181500Z
 DTSTART:20230227T180000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Day 2 Interview with Malala Fund
-UID:63180579-09e9-cc9d-2bf8-8fc91cbf00c4
+SUMMARY:Frame Fatales Leads Interview
+UID:a9209662-61b0-a778-7f5a-6f94456770ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Rexy\nRun: Any% No Item Glitch — PS\nHost: Pacific\nSe
@@ -254,14 +254,14 @@ SUMMARY:Sleep
 UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kungfufruitcup\nRun: Charity 2.0% — GDQ Studio\nHost: 
- Interview team\nSetup Lenght:
+DESCRIPTION:Runner: Kungfufruitcup\nRun: Nuria Mshare — Tanzania Represent
+ ative\nHost: Interview team\nSetup Lenght:
 DTEND:20230228T181500Z
 DTSTART:20230228T180000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Day 3 Interview with Malala Fund
-UID:8db31d5e-3254-0934-29f9-2155d9974c14
+SUMMARY:Day 3 Malala Fund Interview
+UID:011d7e97-0b64-dd1c-eb70-324ce6ea1309
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: NaomiiiPlays\nRun: Employee of the Month — PC\nHost: S
