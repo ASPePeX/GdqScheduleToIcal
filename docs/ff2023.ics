@@ -14,8 +14,8 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DESCRIPTION:Runner: Kungfufruitcup\, frozenflygone\nRun: Preshow and Inter
- view with Malala Fund CEO Lena Alfi — GDQ Studio\nHost: Interview team\nS
- etup Lenght:
+ view with Lena Alfi — Malala Fund CEO\nHost: Interview team\nSetup Lenght
+ :
 DTEND:20230226T180000Z
 DTSTART:20230226T173000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -395,14 +395,14 @@ SUMMARY:Sleep
 UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kungfufruitcup\nRun: Charity 3.0% — GDQ Studio\nHost: 
- Interview team\nSetup Lenght:
+DESCRIPTION:Runner: Kungfufruitcup\nRun: Shreya Budhraja — Chief Human Res
+ ources Officer\nHost: Interview team\nSetup Lenght:
 DTEND:20230301T181500Z
 DTSTART:20230301T180000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Day 4 Interview with Malala Fund
-UID:eb3b52c0-b86f-be98-7285-f2a67791c915
+SUMMARY:Day 4 Malala Fund Interview
+UID:6774b965-9f1c-0441-7b2b-edea2ea42b79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Sapphire\nRun: All Collectables — PC\nHost: SweetPeebs
@@ -727,7 +727,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Faith\nRun: No Bad Dreams — GDQ Studio\nHost: Faith\nS
  etup Lenght:
-DTEND:20230304T180500Z
+DTEND:20230304T180000Z
 DTSTART:20230304T060400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
@@ -735,20 +735,20 @@ SUMMARY:Sleep
 UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kungfufruitcup\nRun: Charity 6.0% — GDQ Studio\nHost: 
- Interview team\nSetup Lenght:
-DTEND:20230304T182000Z
-DTSTART:20230304T180500Z
+DESCRIPTION:Runner: Kungfufruitcup\nRun: Karina Gomes — Communications Con
+ sultant\nHost: Interview team\nSetup Lenght:
+DTEND:20230304T181500Z
+DTSTART:20230304T180000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Day 7 Interview with Malala Fund
-UID:42017e03-0b50-de28-f9fb-dbb832723945
+SUMMARY:Day 7 Malala Fund Interview
+UID:6302ebe8-be72-65ef-e94e-33cf945fe0df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: a_variety_pack\nRun: Any% Gearless — Switch\nHost: Swe
  etPeebs\nSetup Lenght: 0:12:00
-DTEND:20230304T203000Z
-DTSTART:20230304T182000Z
+DTEND:20230304T202500Z
+DTSTART:20230304T181500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:BioShock Infinite
@@ -757,8 +757,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Shoujo\nRun: Sonic% — SNES\nHost: ShinyPinkachu\nSetup
   Lenght: 0:20:00
-DTEND:20230304T210200Z
-DTSTART:20230304T204200Z
+DTEND:20230304T205700Z
+DTSTART:20230304T203700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Sure Shot
@@ -767,8 +767,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: eon\nRun: Master — Arcade\nHost: ShinyPinkachu\nSetup 
  Lenght: 0:12:00
-DTEND:20230304T213500Z
-DTSTART:20230304T212200Z
+DTEND:20230304T213000Z
+DTSTART:20230304T211700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Tetris: The Grand Master
@@ -777,8 +777,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: thistle_dew\nRun: Any% NMG — PC\nHost: ShinyPinkachu\n
  Setup Lenght: 0:12:00
-DTEND:20230304T231700Z
-DTSTART:20230304T214700Z
+DTEND:20230304T231200Z
+DTSTART:20230304T214200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Death's Door
@@ -787,8 +787,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: modulottie\nRun: Hard Mode — PC\nHost: PippyInATopHat\
  nSetup Lenght: 0:12:00
-DTEND:20230304T235300Z
-DTSTART:20230304T232900Z
+DTEND:20230304T234800Z
+DTSTART:20230304T232400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Katana ZERO
@@ -797,8 +797,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Bar0ti\nRun: any% TAS — PC\nHost: PippyInATopHat\nSetu
  p Lenght: 0:12:00
-DTEND:20230305T002000Z
-DTSTART:20230305T000500Z
+DTEND:20230305T001500Z
+DTSTART;VALUE=DATE:20230305
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Katana ZERO
@@ -807,8 +807,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Phant_TV\nRun: Club Nintendo% — SNES\nHost: PippyInATo
  pHat\nSetup Lenght: 0:12:00
-DTEND:20230305T024200Z
-DTSTART:20230305T003200Z
+DTEND:20230305T023700Z
+DTSTART:20230305T002700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Super Metroid
@@ -817,8 +817,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: MadzBrutal\nRun: any% No Major Glitches — PC\nHost: Ne
  tara\nSetup Lenght: 0:12:00
-DTEND:20230305T043400Z
-DTSTART:20230305T025400Z
+DTEND:20230305T042900Z
+DTSTART:20230305T024900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:BONUS GAME 5: Inscryption
@@ -827,8 +827,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ins0mnia\nRun: any% No Major Glitches — PC\nHost: Neta
  ra\nSetup Lenght: 0:16:00
-DTEND:20230305T052800Z
-DTSTART:20230305T044600Z
+DTEND:20230305T052300Z
+DTSTART:20230305T044100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Hollow Knight
@@ -837,8 +837,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Everyone!\nRun: finale% — GDQ Studio\nHost: Faith\nSet
  up Lenght:
-DTEND:20230305T055900Z
-DTSTART:20230305T054400Z
+DTEND:20230305T055400Z
+DTSTART:20230305T053900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Finale!
