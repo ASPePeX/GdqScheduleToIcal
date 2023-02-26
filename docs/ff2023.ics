@@ -124,14 +124,14 @@ SUMMARY:Sleep
 UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: frozenflygone\, Char_bunny\, Corvimae\, bbrosef\nRun: 
- Interview and Chat — GDQ Studio\nHost: Kungfufruitcup\nSetup Lenght:
+DESCRIPTION:Runner: Kungfufruitcup\nRun: Education Champion — Hiba Hamzi\n
+ Host: Kungfufruitcup\nSetup Lenght:
 DTEND:20230227T181500Z
 DTSTART:20230227T180000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Frame Fatales Leads Interview
-UID:a9209662-61b0-a778-7f5a-6f94456770ed
+SUMMARY:Day 2 Malala Fund Feature
+UID:6e67b244-6e91-35b5-99a4-a1cb6087bff7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Rexy\nRun: Any% No Item Glitch — PS\nHost: Pacific\nSe
