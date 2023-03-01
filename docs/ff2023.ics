@@ -296,8 +296,8 @@ UID:5e1fac3d-0e5f-ce01-1e43-da8cc80eeedc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: DreamTora\nRun: Any% — PS1\nHost: KungFuFruitCup\nSetu
- p Lenght: 0:12:00
-DTEND:20230228T230700Z
+ p Lenght: 0:17:08
+DTEND:20230228T230152Z
 DTSTART:20230228T223700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
