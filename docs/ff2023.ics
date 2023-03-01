@@ -396,8 +396,8 @@ UID:6774b965-9f1c-0441-7b2b-edea2ea42b79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Sapphire\nRun: All Collectables — PC\nHost: SweetPeebs
- \nSetup Lenght: 0:12:00
-DTEND:20230301T184600Z
+ \nSetup Lenght: 0:14:20
+DTEND:20230301T184340Z
 DTSTART:20230301T181600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
