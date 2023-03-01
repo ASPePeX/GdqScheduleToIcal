@@ -426,8 +426,8 @@ UID:e2880848-2810-c28b-f643-3fff904d13b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: passere\, TaintedTali\nRun: any% (Race) — PS2\nHost: K
- ungFuFruitCup\nSetup Lenght: 0:12:00
-DTEND:20230301T221600Z
+ ungFuFruitCup\nSetup Lenght: 0:10:52
+DTEND:20230301T221708Z
 DTSTART:20230301T215800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
