@@ -816,8 +816,8 @@ UID:c908ccca-627e-a7f8-5afd-5a0347e53c6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ins0mnia\nRun: any% No Major Glitches — PC\nHost: Neta
- ra\nSetup Lenght: 0:16:00
-DTEND:20230305T055406Z
+ ra\nSetup Lenght: 0:13:23
+DTEND:20230305T055607Z
 DTSTART:20230305T051206Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
@@ -827,8 +827,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Everyone!\nRun: finale% — GDQ Studio\nHost: Faith\nSet
  up Lenght:
-DTEND:20230305T062506Z
-DTSTART:20230305T061006Z
+DTEND:20230305T062430Z
+DTSTART:20230305T060930Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Finale!
