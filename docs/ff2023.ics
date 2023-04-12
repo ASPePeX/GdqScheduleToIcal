@@ -555,14 +555,14 @@ SUMMARY:Sly Cooper and the Thievius Raccoonus
 UID:2595095f-9a9e-f2a6-f8db-3b7f35454b8a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Netara\, GrayGooGirl\nRun: Co-op Any% — SNES\nHost: Ph
+DESCRIPTION:Runner: GrayGooGirl\, Netara\nRun: Co-op Any% — SNES\nHost: Ph
  ant_TV\nSetup Lenght: 0:21:07
 DTEND:20230303T034353Z
 DTSTART:20230303T014900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Final Fantasy IV: Free Enterprise
-UID:30c0cfb5-ed97-130f-2636-8209ebe9fb36
+UID:9a8062d8-99d1-bcc0-785f-a3902dc67925
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: AirAngel\nRun: Triforce Hunt — SNES\nHost: Phant_TV\nS
