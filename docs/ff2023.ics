@@ -775,14 +775,14 @@ SUMMARY:Death's Door
 UID:40354672-6cbf-1b98-1d70-13e5acb0f8f4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: modulottie\nRun: Hard Mode — PC\nHost: PippyInATopHat\
+DESCRIPTION:Runner: Modulottie\nRun: Hard Mode — PC\nHost: PippyInATopHat\
  nSetup Lenght: 0:12:00
 DTEND:20230304T235600Z
 DTSTART:20230304T233300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Katana ZERO
-UID:74c6f0e1-9014-78d2-39eb-a7a9f40282bc
+UID:e41e1901-4a62-abcd-22dd-5c8e0f6410f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Bar0ti\nRun: any% TAS — PC\nHost: PippyInATopHat\nSetu
