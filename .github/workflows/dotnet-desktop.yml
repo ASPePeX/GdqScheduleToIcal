@@ -19,11 +19,11 @@ jobs:
 
     - uses: actions/checkout@v3
 
-    - name: dotnet run
-      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/42 -o ff2023.ics
+#   - name: dotnet run
+#     run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/42 -o ff2023.ics
 
-#    - name: dotnet run
-#      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/43 -o agdq2023x.ics
+    - name: dotnet run
+      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/43 -o sgdq2023.ics
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
