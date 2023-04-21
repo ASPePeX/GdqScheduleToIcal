@@ -1386,7 +1386,7 @@ UID:2f71250a-8b8a-690e-b643-130b834c5488
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: grandpoobear\nRun: 100% — Super Nintendo\nHost: Mr. Ga
- me & Shout\nSetup Lenght: 0:15:00
+ me and Shout\nSetup Lenght: 0:15:00
 DTEND:20230604T034400Z
 DTSTART:20230604T025600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1396,7 +1396,7 @@ UID:c8989819-98f4-eabf-f4a3-d588a6f661f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Interview Crew\nRun: Recap 100% — Live\nHost: Mr. Game
-  & Shout\nSetup Lenght: 0:10:00
+  and Shout\nSetup Lenght: 0:10:00
 DTEND:20230604T041900Z
 DTSTART:20230604T035900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1406,7 +1406,7 @@ UID:25439d2b-c257-6a68-d6be-1bd583a4c8c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ShinyZeni\, zoast\nRun: Co-Op Any% — Super Nintendo\nH
- ost: Mr. Game & Shout\nSetup Lenght: 0:10:00
+ ost: Mr. Game and Shout\nSetup Lenght: 0:10:00
 DTEND:20230604T051900Z
 DTSTART:20230604T042900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1415,8 +1415,8 @@ SUMMARY:Super Metroid
 UID:edf9e933-6101-60fc-4d1f-490ba3ca4352
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: The End% — GDQ Stage\nHost: Mr. Game &
-  Shout\nSetup Lenght:
+DESCRIPTION:Runner: Tech Crew\nRun: The End% — GDQ Stage\nHost: Mr. Game a
+ nd Shout\nSetup Lenght:
 DTEND:20230604T054900Z
 DTSTART:20230604T052900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
