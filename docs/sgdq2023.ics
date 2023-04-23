@@ -914,8 +914,8 @@ SUMMARY:Pocky & Rocky Reshrined
 UID:66475b9b-9369-3235-8176-5974c8b478d2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: frozenspade\nRun: Any% Mega-Monkey — PC\nHost: musical
- _daredevil\nSetup Lenght: 0:10:00
+DESCRIPTION:Runner: frozenspade\nRun: Any% Mega-Monkey — PC\nHost: Musical
+ _Daredevil\nSetup Lenght: 0:10:00
 DTEND:20230601T125100Z
 DTSTART:20230601T123000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -925,7 +925,7 @@ UID:d8e8307c-d2f4-48e4-7e86-0ba4596a2f14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Joshimuz\nRun: Any% (No 3rd-party FPS caps) — PC\nHost
- : musical_daredevil\nSetup Lenght: 0:12:00
+ : Musical_Daredevil\nSetup Lenght: 0:12:00
 DTEND:20230601T172100Z
 DTSTART:20230601T130100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1244,7 +1244,7 @@ SUMMARY:TimeShift
 UID:230ba89e-4e8c-1adb-75ee-54553f38fcb5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Jaxler\nRun: Any% — Playstation 2\nHost: musical_dared
+DESCRIPTION:Runner: Jaxler\nRun: Any% — Playstation 2\nHost: Musical_Dared
  evil\nSetup Lenght: 0:15:00
 DTEND:20230603T083200Z
 DTSTART:20230603T074200Z
@@ -1254,7 +1254,7 @@ SUMMARY:Neopets: The Darkest Faerie
 UID:09fa025a-9eda-eb35-494f-338cb51f5e31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Biglaw\nRun: Beginner Any% — PC\nHost: musical_daredev
+DESCRIPTION:Runner: Biglaw\nRun: Beginner Any% — PC\nHost: Musical_Daredev
  il\nSetup Lenght: 0:10:00
 DTEND:20230603T092400Z
 DTSTART:20230603T084700Z
@@ -1264,8 +1264,8 @@ SUMMARY:Tony Hawk's Underground
 UID:c38b1495-e829-4371-c480-5cbc86113b2d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Lavableman\nRun: Spelunker Trials Any% — PC\nHost: mus
- ical_daredevil\nSetup Lenght: 0:10:00
+DESCRIPTION:Runner: Lavableman\nRun: Spelunker Trials Any% — PC\nHost: Mus
+ ical_Daredevil\nSetup Lenght: 0:10:00
 DTEND:20230603T095400Z
 DTSTART:20230603T093400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1274,8 +1274,8 @@ SUMMARY:Spelunky 2
 UID:8cce16ae-2f5b-f09a-a1b2-03450380b10f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Primorix\nRun: All Skills No OOB/TA — PC\nHost: musica
- l_daredevil\nSetup Lenght: 0:10:00
+DESCRIPTION:Runner: Primorix\nRun: All Skills No OOB/TA — PC\nHost: Musica
+ l_Daredevil\nSetup Lenght: 0:10:00
 DTEND:20230603T103900Z
 DTSTART:20230603T100400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
