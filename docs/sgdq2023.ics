@@ -663,8 +663,8 @@ SUMMARY:Gauntlet
 UID:56eb65ec-523d-819c-2df2-624d35b27a47
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: EileenCream\nRun: WUDE Any% (Master) — PC\nHost: Mr. G
- ame and Shout\nSetup Lenght: 0:12:00
+DESCRIPTION:Runner: EileenCream\nRun: WUDE Any% (Master) — PC\nHost: Train
+ erAnade\nSetup Lenght: 0:12:00
 DTEND:20230531T143900Z
 DTSTART:20230531T134700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -703,8 +703,8 @@ SUMMARY:Trine Enchanted Edition
 UID:310b2d01-f481-5d29-6d7f-dff79f1576b1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Qlex\nRun: Arcade — PS4\nHost: TrainerAnade\nSetup Len
- ght: 0:10:00
+DESCRIPTION:Runner: Qlex\nRun: Arcade — PS4\nHost: iggyzig\nSetup Lenght: 
+ 0:10:00
 DTEND:20230531T165000Z
 DTSTART:20230531T162800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -724,7 +724,7 @@ UID:0aa2f3e2-79cd-aff4-adb5-38e2aa2708c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: killingpepsi\, XandoToaster\nRun: Co-op Legacy X-row —
-  PC\nHost: iggyzig\nSetup Lenght: 0:20:00
+  PC\nHost: Mr. Game and Shout\nSetup Lenght: 0:20:00
 DTEND:20230531T190200Z
 DTSTART:20230531T183700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
