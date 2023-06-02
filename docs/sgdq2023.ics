@@ -955,8 +955,8 @@ UID:bdd92a46-248f-bbaa-265f-010e5d46c04a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: mralberto23\nRun: Any% — Nintendo Gamecube\nHost: atea
- tree\nSetup Lenght: 0:12:00
-DTEND:20230602T011215Z
+ tree\nSetup Lenght: 0:18:27
+DTEND:20230602T010548Z
 DTSTART:20230601T221215Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
