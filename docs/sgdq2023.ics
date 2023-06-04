@@ -1386,8 +1386,8 @@ UID:c8989819-98f4-eabf-f4a3-d588a6f661f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Interview Crew\nRun: Recap 100% — Live\nHost: Mr. Game
-  and Shout\nSetup Lenght: 0:10:00
-DTEND:20230604T100400Z
+  and Shout\nSetup Lenght: 0:08:00
+DTEND:20230604T095900Z
 DTSTART:20230604T094400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
@@ -1396,9 +1396,9 @@ UID:25439d2b-c257-6a68-d6be-1bd583a4c8c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ShinyZeni\, zoast\nRun: Co-Op 100% — SNES\nHost: Mr. G
- ame and Shout\nSetup Lenght: 0:10:00
-DTEND:20230604T110400Z
-DTSTART:20230604T101400Z
+ ame and Shout\nSetup Lenght: 0:07:46
+DTEND:20230604T104814Z
+DTSTART:20230604T100700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Super Metroid
@@ -1407,8 +1407,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Tech Crew\nRun: The End% — GDQ Stage\nHost: Mr. Game a
  nd Shout\nSetup Lenght:
-DTEND:20230604T113400Z
-DTSTART:20230604T111400Z
+DTEND:20230604T111600Z
+DTSTART:20230604T105600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Finale!
