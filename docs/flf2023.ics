@@ -1,0 +1,686 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:UTC
+X-LIC-LOCATION:UTC
+BEGIN:STANDARD
+DTSTART:20220101T000000
+RRULE:FREQ=YEARLY;BYDAY=1SA;BYMONTH=1
+TZNAME:UTC
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:Runner: Tech Crew\nRun: Preshow — GDQ Studio\nHost: Interstiti
+ al team\nSetup Lenght: 0:02:29
+DTEND:20230813T170000Z
+DTSTART:20230813T163000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Preshow
+UID:5039679a-85f0-ffe4-023d-6f414f5e2ddb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: cyanidesugar\nRun: Any% Story Mode — PS5\nHost: t0zzle
+ \nSetup Lenght: 0:18:06
+DTEND:20230813T190314Z
+DTSTART:20230813T170229Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Stranger of Paradise: Final Fantasy Origin
+UID:3d7be972-e27d-8ece-ca29-93abd47863bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Pcol\nRun: Amy's Story — Xbox One\nHost: Asuka424\nSet
+ up Lenght: 0:20:17
+DTEND:20230813T193641Z
+DTSTART:20230813T192120Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sonic Adventure
+UID:bffabd6a-eac3-04f7-cf69-39f2e9686f2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: allison8bit\nRun: Fresh File — PC\nHost: Asuka424\nSet
+ up Lenght: 0:24:20
+DTEND:20230813T202238Z
+DTSTART:20230813T195658Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Have a Nice Death
+UID:58418920-603d-b871-dfc5-1ee770a40cd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Quacksilver\nRun: True Ending — PC\nHost: Asuka424\nSe
+ tup Lenght: 0:08:20
+DTEND:20230813T212438Z
+DTSTART:20230813T204658Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Lone Fungus
+UID:11ba2baf-8603-9c6c-6304-73bfbf512db2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Aalaizah\, patticus_mok\nRun: 70 Stars Randomizer — PC
+ \nHost: SweetPeebs\nSetup Lenght: 0:23:48
+DTEND:20230813T232712Z
+DTSTART:20230813T213258Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Overcooked! 2
+UID:2b7b33cd-99ca-086e-b2eb-58d6dc8983ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: selcouthmind\nRun: Extreme Difficulty Showcase — PC\nH
+ ost: SweetPeebs\nSetup Lenght: 0:14:24
+DTEND:20230814T003436Z
+DTSTART:20230813T235100Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Cook\, Serve\, Delicious!
+UID:c88d4b4a-35fa-1b30-5984-635836d5788e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: EpicYoshiMaster\nRun: Any% Wondermail Cutsceneless — D
+ S\nHost: spef\nSetup Lenght: 0:17:09
+DTEND:20230814T030751Z
+DTSTART:20230814T004900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Pokemon Mystery Dungeon: Explorers of Sky
+UID:471b152b-6a2e-8c5b-d070-a3b29a18c83a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: euni\nRun: Any% Restricted Major Glitches — SNES\nHost
+ : spef\nSetup Lenght: 0:05:06
+DTEND:20230814T040154Z
+DTSTART:20230814T032500Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:The Legend of Zelda: A Link to the Past
+UID:2a474d61-5c32-c77e-0702-853c61e475fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: Pillow Fight Boss Rush — GDQ Studio\nHost:
+  Velocity\nSetup Lenght:
+DTEND:20230814T170000Z
+DTSTART:20230814T040700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Skybilz\nRun: 15 Card Mod — PS2\nHost: pacific\, zokub
+ un\nSetup Lenght: 0:19:14
+DTEND:20230814T195046Z
+DTSTART:20230814T170000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Yu-Gi-Oh! Forbidden Memories
+UID:5e8f6bef-f9ed-81f6-84c9-d31ca4633455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Bloupeuh\nRun: Any% (Normal Mode) — GB\nHost: zokubun\
+ nSetup Lenght: 0:28:04
+DTEND:20230814T202356Z
+DTSTART:20230814T201000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Kirby's Dream Land
+UID:b1f37440-6591-3514-5f2d-ac0d5fb9e305
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Charbunny\nRun: Inbounds — PC\nHost: BigScared\nSetup 
+ Lenght: 0:25:47
+DTEND:20230814T210713Z
+DTSTART:20230814T205200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Go! Go! Hamster Chef!
+UID:92b2b642-dbb1-e672-7989-bba25ae0385b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Abbiescorner\nRun: Good Ending — Dreamcast\nHost: BigS
+ cared\nSetup Lenght: 0:27:37
+DTEND:20230814T225823Z
+DTSTART:20230814T213300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Illbleed
+UID:a592a616-8dd2-7085-8ec6-d6f937d0e068
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: RUBIEHART\nRun: 100% All Bosses — PC\nHost: BigScared\
+ nSetup Lenght: 0:22:07
+DTEND:20230814T234953Z
+DTSTART:20230814T232600Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Titan Souls
+UID:17b3f504-b466-440a-1e7a-0da4f9a92911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Miss Scarlet Tanager\nRun: Promise Any% — PC\nHost: Bi
+ gScared\nSetup Lenght: 0:21:08
+DTEND:20230815T011752Z
+DTSTART:20230815T001200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Signalis
+UID:51814eb6-9829-4779-bde7-d7ae89b92a4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: KatLink\nRun: New Game Standard Any% — PC\nHost: Nicho
+ le Goodnight\nSetup Lenght: 0:16:26
+DTEND:20230815T034634Z
+DTSTART:20230815T013900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Resident Evil 4 Remake
+UID:fd02278f-c3ca-1a4f-d386-e684faf9b5c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Fina2112\nRun: Glitchless — PC\nHost: Nichole Goodnigh
+ t\nSetup Lenght: 0:08:00
+DTEND:20230815T052200Z
+DTSTART:20230815T040300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:F.E.A.R.
+UID:bebedafb-eac5-e2f7-8b14-cdea19964bea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: All Ghosts (Glitched) — GDQ Studio\nHost: 
+ Velocity\nSetup Lenght: 0:06:22
+DTEND:20230815T170000Z
+DTSTART:20230815T053000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: KinzyKenzie\nRun: Any% — PC\nHost: BigScared\nSetup Le
+ nght: 0:21:54
+DTEND:20230815T174012Z
+DTSTART:20230815T170622Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:RoboCop 2003
+UID:e11ed9be-2956-d1bf-c65d-0ba91f6433ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Luna Valkyr\nRun: Any% Normal — PC\nHost: BigScared\nS
+ etup Lenght: 0:13:51
+DTEND:20230815T185538Z
+DTSTART:20230815T180206Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Dino Crisis 2
+UID:3493fcf2-0b31-0e23-9e15-a7aead42f9d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: aco\nRun: Inbounds — PC\nHost: BigScared\nSetup Lenght
+ : 0:28:03
+DTEND:20230815T191957Z
+DTSTART:20230815T190929Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Perspective
+UID:e5684144-e50d-ad60-ce97-0886730c506d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: savage_octagon\nRun: 00-10 Shuffler — NES\nHost: Lanar
+ use\nSetup Lenght: 0:22:53
+DTEND:20230815T203252Z
+DTSTART:20230815T194800Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Dr. Mario
+UID:fa120102-8940-48cb-91f2-c30c9a7efc32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Mikan\nRun: Any% — PC\nHost: Lanaruse\nSetup Lenght: 0
+ :21:22
+DTEND:20230815T212053Z
+DTSTART:20230815T205545Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Mega Serval
+UID:0a6a1030-687e-e9ef-44a1-52ec7accde30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: leggystarscream\nRun: Any% Easy — PC\nHost: zokubun\nS
+ etup Lenght: 0:39:59
+DTEND:20230815T233401Z
+DTSTART:20230815T214215Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Super Lesbian Animal RPG
+UID:978bb3ed-fbf7-ad2f-beca-e87caf2c807f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: GretaIceVixen\nRun: Showcase — Switch\nHost: zokubun\n
+ Setup Lenght: 0:40:06
+DTEND:20230816T005754Z
+DTSTART:20230816T001400Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Hatsune Miku: Project DIVA MegaMix
+UID:e651b4ec-a227-59dd-f659-00b766b4d860
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: dijonketchup\nRun: Reverse Badge Order — GB\nHost: the
+ ValiantSun\nSetup Lenght: 0:10:06
+DTEND:20230816T024954Z
+DTSTART:20230816T013800Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Pokémon Blue
+UID:57b0b02b-382c-a5c9-e69a-5e63ddf53c32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: GrayGooGirl\nRun: Regular Any% - Full Area Varia Rando
+ mizer — SNES\nHost: theValiantSun\nSetup Lenght: 0:04:49
+DTEND:20230816T051811Z
+DTSTART:20230816T030000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Super Metroid
+UID:fb399e89-6337-65dd-a7d4-ffa757fc52fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: Jigglypuff Karaoke Showcase — GDQ Studio\n
+ Host: Velocity\nSetup Lenght: 0:09:13
+DTEND:20230816T170000Z
+DTSTART:20230816T052300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: a_variety_pack\nRun: NG+ Perfect Service — Switch\nHos
+ t: Lanaruse\nSetup Lenght: 0:21:31
+DTEND:20230816T174309Z
+DTSTART:20230816T170913Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:VA11 Hall-A
+UID:2738eaa1-e1c4-a008-5575-c53bb1e097cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: GrayGooGirl\nRun: Any% — NES\nHost: Lanaruse\nSetup Le
+ nght: 0:30:48
+DTEND:20230816T182742Z
+DTSTART:20230816T180440Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Wizards and Warriors 3: Kuros: Visions of Power
+UID:a757b5fe-1c68-bf0c-3461-6b283d501668
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: enbyzee\nRun: Fists Path (Saveless) — PC\nHost: savage
+ _octagon\nSetup Lenght: 0:24:09
+DTEND:20230816T194251Z
+DTSTART:20230816T185830Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Indiana Jones and the Fate of Atlantis
+UID:695981a3-1a39-24b7-f831-e1b41f8d57b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: JoJosey\, Aalaizah\nRun: Any% Race — PC\nHost: savage_
+ octagon\nSetup Lenght: 0:20:56
+DTEND:20230816T201734Z
+DTSTART:20230816T200700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Satan Loves Cake
+UID:96250b1a-4b94-1ae2-4f7a-19daa341c371
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Utsu\nRun: 100% Restricted — PC\nHost: savage_octagon\
+ nSetup Lenght: 0:30:25
+DTEND:20230816T220135Z
+DTSTART:20230816T203830Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Solar Ash
+UID:33602f9f-ff17-f0e1-234c-d1fe01a40c24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Terpretor\nRun: Glitchless Mines 50 — PC\nHost: theVal
+ iantSun\nSetup Lenght: 0:33:39
+DTEND:20230816T225521Z
+DTSTART:20230816T223200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Stardew Valley
+UID:8e8df261-fdee-b424-5264-9e823a39fb18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: AKATheCupcakes\nRun: Knuckles NG+ — Switch\nHost: paci
+ fic\nSetup Lenght: 0:09:53
+DTEND:20230817T000307Z
+DTSTART:20230816T232900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:SEGA AGES Sonic the Hedgehog 2
+UID:cf2eeb32-a856-acc0-20f2-c2c4079ccbcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Luna Valkyr\nRun: Heroes Story (No Ultra) — Wii\nHost:
+  Nichole Goodnight\nSetup Lenght: 0:09:27
+DTEND:20230817T003333Z
+DTSTART:20230817T001300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sonic Riders: Zero Gravity
+UID:5266b998-f879-d9bd-d267-5ff870b25489
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Metroid Crime\nRun: Hang Glider% - Amy — PC\nHost: Nic
+ hole Goodnight\nSetup Lenght: 0:14:35
+DTEND:20230817T010025Z
+DTSTART:20230817T004300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sonic Mania
+UID:52410c52-d4e7-8836-c40d-1b47cc0f1c94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: okNia\, atwentysomethingloser\, theValiantSun\nRun: An
+ y% - Random Seed\, Turkey\, Trio — PC\nHost: Nichole Goodnight\nSetup Len
+ ght: 0:25:05
+DTEND:20230817T015155Z
+DTSTART:20230817T011500Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:PlateUp!
+UID:07300718-8b36-f0d7-faf7-260aa13ffe5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Kailaria\nRun: Story 100% NMG — Switch\nHost: Kinda Ne
+ rdy Housewife\nSetup Lenght: 0:36:51
+DTEND:20230817T034709Z
+DTSTART:20230817T021700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Cadence of Hyrule
+UID:dcc42f73-0797-ead4-db32-ab0e99d754db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: garbi\nRun: All Goals — PS3\nHost: Kinda Nerdy Housewi
+ fe\nSetup Lenght: 0:05:19
+DTEND:20230817T052041Z
+DTSTART:20230817T042400Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:BONUS GAME: Katamari Forever
+UID:2bec768b-6a7f-da83-7f26-23e5759b6fcf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: 40 Winks (No REM Cycling) — GDQ Studio\nHo
+ st: Velocity\nSetup Lenght: 0:06:00
+DTEND:20230817T170000Z
+DTSTART:20230817T052600Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: SeraVenza\nRun: 100% — PC\nHost: Emmie Elliott\nSetup 
+ Lenght: 0:30:13
+DTEND:20230817T195847Z
+DTSTART:20230817T170600Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Fable: The Lost Chapters
+UID:6f3f2a4d-23a0-008a-d7e3-16033c3951b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Dani3883\nRun: Randomizer Any% — PC\nHost: savage_octa
+ gon\nSetup Lenght: 0:16:45
+DTEND:20230817T215315Z
+DTSTART:20230817T202900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Final Fantasy
+UID:8893892a-961f-463b-90a6-042ed2a811a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Beuchi\nRun: 100% (Hana) — PC\nHost: savage_octagon\nS
+ etup Lenght: 0:19:29
+DTEND:20230817T230231Z
+DTSTART:20230817T221000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Lunistice
+UID:0b25fd79-44a0-a284-a018-f82f489097bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Asuka424\nRun: Rookie Any% — PS5\nHost: pacific\nSetup
+  Lenght: 0:27:10
+DTEND:20230817T234950Z
+DTSTART:20230817T232200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Nex Machina
+UID:062e2163-e2e0-232c-f095-59088db1659a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: kariohki\nRun: Story (Normal/Master) — Switch\nHost: p
+ acific\nSetup Lenght: 0:20:27
+DTEND:20230818T005833Z
+DTSTART:20230818T001700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Chocobo GP
+UID:9fc8192a-cb0b-0762-8890-303b77173db5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: AirAngel\nRun: Randomizer 2 Instruments Required — GBC
+ \nHost: t0zzle\nSetup Lenght: 0:25:33
+DTEND:20230818T020127Z
+DTSTART:20230818T011900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:The Legend of Zelda: Link’s Awakening DX
+UID:53349446-821d-9e8a-e17a-80c5b20308d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Corvimae\nRun: Any% Seeded — PC\nHost: t0zzle\nSetup L
+ enght: 0:19:27
+DTEND:20230818T031733Z
+DTSTART:20230818T022700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Cassette Beasts
+UID:d908b733-48d9-a0b6-56fd-ac2bc9727bc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: SatanHerself\nRun: Any% — PC\nHost: t0zzle\nSetup Leng
+ ht: 0:02:53
+DTEND:20230818T045907Z
+DTSTART:20230818T033700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:BONUS GAME: Peggle Nights
+UID:b3f87344-b881-c537-9d13-0c6e1941068c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: sleepwalk% (No OOB) — GDQ Studio\nHost: Ve
+ locity\nSetup Lenght:
+DTEND:20230818T170000Z
+DTSTART:20230818T050200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: RUBIEHART\, Kungfufruitcup\nRun: Wake Up% — Live\nHost
+ : Faith\nSetup Lenght: 0:08:14
+DTEND:20230818T171446Z
+DTSTART:20230818T170000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Fatales Friday Preview
+UID:dd1dca38-b61b-43e1-6c8e-9c3cf82f9eff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Khaegar\nRun: CSR RNGFix Any% — PC\nHost: theValiantSu
+ n\nSetup Lenght: 0:23:02
+DTEND:20230818T210658Z
+DTSTART:20230818T172300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Final Fantasy X
+UID:0741ca9a-59c5-f882-a9a4-be29264fe736
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Risuruuu\nRun: EX Story Mode (Very Hard Difficulty) — 
+ GC\nHost: Kinda Nerdy Housewife\nSetup Lenght: 0:48:12
+DTEND:20230818T223048Z
+DTSTART:20230818T213000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Dance Dance Revolution: Mario Mix
+UID:d2610afd-b5ba-c671-afa5-46de414b714d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Okapi\nRun: SP Showcase — PC\nHost: Kinda Nerdy Housew
+ ife\nSetup Lenght: 0:22:43
+DTEND:20230819T002717Z
+DTSTART:20230818T231900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:beatmania IIDX Infinitas
+UID:0176e7c4-60bc-dd6c-0358-9e7beca70b9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: EnviroNat\nRun: All Dog Treasures — Switch\nHost: paci
+ fic\nSetup Lenght: 0:24:24
+DTEND:20230819T021036Z
+DTSTART:20230819T005000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:The Legend of Zelda: Breath of the Wild
+UID:c6474e94-e09d-6aff-b7a6-ea1db7533313
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: KatyMay\nRun: Any% — Switch\nHost: spef\nSetup Lenght:
+  0:14:42
+DTEND:20230819T034518Z
+DTSTART:20230819T023500Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:BONUS GAME: The Legend of Zelda: Tears of the Kingdom
+UID:77290f09-8d4c-a19c-0f98-cac47233fc99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: AeonFrodo\nRun: Beat the Game — Switch\nHost: spef\nSe
+ tup Lenght: 0:06:54
+DTEND:20230819T052706Z
+DTSTART:20230819T040000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Fire Emblem Engage
+UID:08c354bd-ba16-549b-b9ae-b2407b92a3e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: Catch All Z's (Best Ending) — GDQ Studio\n
+ Host: Velocity\nSetup Lenght: 0:10:00
+DTEND:20230819T170000Z
+DTSTART:20230819T053400Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Sleep
+UID:2d9093bf-2363-e3c1-3aea-94c8ce3ffea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Pcol\nRun: Any% — PC\nHost: Lanaruse\nSetup Lenght: 0:
+ 26:31
+DTEND:20230819T174029Z
+DTSTART:20230819T171000Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Slime Rancher
+UID:64eb447c-2095-7e90-03d8-8372bb0b79e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Trivvaria\nRun: Starfall Street — Switch\nHost: Lanaru
+ se\nSetup Lenght: 0:28:36
+DTEND:20230819T194024Z
+DTSTART:20230819T180700Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Pokémon Scarlet/Violet
+UID:81c0e011-7c7d-cf0e-0fe9-f3963675f2fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Quacksilver\nRun: All Bosses And Skills - Obscure Info
+ rmation — PC\nHost: SweetPeebs\nSetup Lenght: 0:23:46
+DTEND:20230819T210914Z
+DTSTART:20230819T200900Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Haiku\, the Robot
+UID:680ad174-fe64-81d0-0ce4-813d4d3bfeda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: BigScared\nRun: Glitchless NG+ 1st Person vs 3rd Perso
+ n Bidwar — PS5\nHost: SweetPeebs\nSetup Lenght: 0:17:26
+DTEND:20230819T231734Z
+DTSTART:20230819T213300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Resident Evil Village
+UID:b1cead3a-24d7-b588-56fc-fc1253f711d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Phant\nRun: Any% — Switch\nHost: Asuka424\nSetup Lengh
+ t: 0:28:43
+DTEND:20230820T010417Z
+DTSTART:20230819T233500Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Super Mario Odyssey
+UID:6a0becde-a534-c73d-9a8c-3f6e95923f4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: FMOptimist\nRun: Any% — PC\nHost: Asuka424\nSetup Leng
+ ht: 1:04:49
+DTEND:20230820T021311Z
+DTSTART:20230820T013300Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:BONUS GAME: A Hat in Time
+UID:11cbb1cb-0d88-5453-40cd-9d3f9de3d906
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Sanjan\nRun: Any% — PC\nHost: zokubun\nSetup Lenght: 0
+ :48:33
+DTEND:20230820T062327Z
+DTSTART:20230820T031800Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Octopath Traveler II
+UID:8b410b4b-9bf0-43ca-ec7f-dd260cd18efc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Runner: Faith\nRun: Finale% — GDQ Studio\nHost: Studio Workers
+ \nSetup Lenght:
+DTEND:20230820T072700Z
+DTSTART:20230820T071200Z
+LOCATION:https://www.twitch.tv/gamesdonequick
+SEQUENCE:0
+SUMMARY:Finale!
+UID:9a139eca-3e48-a6e5-bd1e-15ebb854b714
+END:VEVENT
+END:VCALENDAR
