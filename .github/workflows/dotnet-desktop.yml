@@ -23,7 +23,13 @@ jobs:
 #     run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/42 -o ff2023.ics
 
     - name: dotnet run
-      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/43 -o sgdq2023.ics
+      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/44 -o sgdq2023.ics
+      
+    - name: dotnet run
+      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/45 -o sgdq2023.ics
+      
+    - name: dotnet run
+      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/46 -o sgdq2023.ics
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
