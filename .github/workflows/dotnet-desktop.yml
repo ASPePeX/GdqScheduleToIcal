@@ -22,11 +22,11 @@ jobs:
 #   - name: dotnet run
 #     run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/42 -o ff2023.ics
 
-    - name: dotnet run
-      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/44 -o flf2023.ics
+#    - name: dotnet run
+#      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/44 -o flf2023.ics
       
-    - name: dotnet run
-      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/45 -o gdqx2023.ics
+#    - name: dotnet run
+#      run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/45 -o gdqx2023.ics
       
     - name: dotnet run
       run: dotnet run -c Release --project GdqScheduleToIcal.csproj -u https://gamesdonequick.com/schedule/46 -o agdq2024.ics
