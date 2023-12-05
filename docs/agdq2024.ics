@@ -84,7 +84,7 @@ UID:6f40f01f-3184-ebb4-bcc8-2e86a7f16fc7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Connor75\nRun: No Levels Early — Wii U Virtual Console
- \nHost: TheKingsPride\nSetup Lenght: 0:18:00
+ \nHost: TheKingsPride\nSetup Lenght: 0:20:00
 DTEND:20240115T001300Z
 DTSTART:20240114T215800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -94,9 +94,9 @@ UID:4dceec9b-2788-1668-fed7-bb7e02af20ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Tech Crew\nRun: Setup — Live\nHost: TheKingsPride\nSet
- up Lenght: 0:02:00
-DTEND:20240115T010100Z
-DTSTART:20240115T003100Z
+ up Lenght: 0:15:00
+DTEND:20240115T004800Z
+DTSTART:20240115T003300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Setup Flex Block - Sunday
