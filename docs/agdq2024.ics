@@ -33,8 +33,8 @@ SUMMARY:TUNIC
 UID:3fb8ea27-1b16-3db7-bd24-e34f4fd42380
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Helix\nRun: Master — Nintendo Wii\nHost: AttyJoe\nSetu
- p Lenght: 0:18:00
+DESCRIPTION:Runner: Helix\nRun: Master — Wii\nHost: AttyJoe\nSetup Lenght:
+  0:18:00
 DTEND:20240114T180400Z
 DTSTART:20240114T174000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -63,8 +63,8 @@ SUMMARY:SpongeBob SquarePants: The Cosmic Shake
 UID:99aa1f1f-1a29-717c-cc84-9952512222ea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Mindez\nRun: Any% Glitchless — Sega Game Gear\nHost: P
- ippyInATopHat\nSetup Lenght: 0:23:00
+DESCRIPTION:Runner: Mindez\nRun: Any% Glitchless — Game Gear\nHost: PippyI
+ nATopHat\nSetup Lenght: 0:23:00
 DTEND:20240114T211800Z
 DTSTART:20240114T203200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -143,8 +143,8 @@ SUMMARY:Batman: Arkham City
 UID:fe7c7fd1-4602-8d13-76cb-8bb35ebeeb96
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Ecdycis\nRun: Ending A vs Ending S — Super Famicom\nHo
- st: musical_daredevil\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: Ecdycis\nRun: Ending A vs Ending S — SFC\nHost: musica
+ l_daredevil\nSetup Lenght: 0:15:00
 DTEND:20240115T060700Z
 DTSTART:20240115T054700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -183,8 +183,8 @@ SUMMARY:Ganbare Goemon 2: Kiteretsu Shougun Magginesu
 UID:a2e1638c-05cc-5ee3-6e32-1d6a340dc321
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: skateman222\nRun: Any% — GameCube (Game Boy Player)\nH
- ost: Peace Egg\nSetup Lenght: 0:07:00
+DESCRIPTION:Runner: skateman222\nRun: Any% — GC\nHost: Peace Egg\nSetup Le
+ nght: 0:07:00
 DTEND:20240115T093700Z
 DTSTART:20240115T091100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -213,8 +213,8 @@ SUMMARY:LONG LIVE THE AXE
 UID:539cff47-0595-26f2-3315-c1c85464a5e9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Zic3\nRun: Any% — PSTV\nHost: Critique Quartz\nSetup L
- enght: 0:10:00
+DESCRIPTION:Runner: Zic3\nRun: Any% — PS\nHost: Critique Quartz\nSetup Len
+ ght: 0:10:00
 DTEND:20240115T110300Z
 DTSTART:20240115T104100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -223,8 +223,8 @@ SUMMARY:A Bug's Life
 UID:bf47e31b-dfe1-d30e-e7be-d87198af1725
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Blupee\nRun: any% — Gamecube or Wii\nHost: Critique Qu
- artz\nSetup Lenght: 0:07:00
+DESCRIPTION:Runner: Blupee\nRun: any% — GC\nHost: Critique Quartz\nSetup L
+ enght: 0:07:00
 DTEND:20240115T113800Z
 DTSTART:20240115T111300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -313,8 +313,8 @@ SUMMARY:Mega Man 8
 UID:b617431d-afb2-2ff6-e9c5-97a01a655b9a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: MrMiguel\nRun: 100% — Nintendo Gamecube\nHost: Threach
- \nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: MrMiguel\nRun: 100% — GC\nHost: Threach\nSetup Lenght:
+  0:15:00
 DTEND:20240115T212300Z
 DTSTART:20240115T185800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -363,8 +363,8 @@ SUMMARY:Only Up!
 UID:14dbe380-8a83-bd7c-427b-49ad8b2c70f3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Etchy\nRun: Any% — Nintendo DS\nHost: Nichole Goodnigh
- t\nSetup Lenght: 0:30:00
+DESCRIPTION:Runner: Etchy\nRun: Any% — DS\nHost: Nichole Goodnight\nSetup 
+ Lenght: 0:30:00
 DTEND:20240116T024700Z
 DTSTART:20240116T013200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -383,8 +383,8 @@ SUMMARY:Daily Recap - Monday
 UID:5d2f9315-c1c8-7a2b-402d-4d3dc90eb4c8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kap\nRun: Rescue Olimar — Nintendo Switch\nHost: Nicho
- le Goodnight\nSetup Lenght: 0:07:00
+DESCRIPTION:Runner: Kap\nRun: Rescue Olimar — Switch\nHost: Nichole Goodni
+ ght\nSetup Lenght: 0:07:00
 DTEND:20240116T045200Z
 DTSTART:20240116T033200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -573,8 +573,8 @@ SUMMARY:Gyromite
 UID:e0df0eb8-b164-f8c2-e528-79b89e447afe
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: LoganUS\nRun: 32 Tracks Skips — Nintendo Wii/Wii U\nHo
- st: Argick\nSetup Lenght: 0:10:00
+DESCRIPTION:Runner: LoganUS\nRun: 32 Tracks Skips — Wii\nHost: Argick\nSet
+ up Lenght: 0:10:00
 DTEND:20240116T203600Z
 DTSTART:20240116T192200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -593,8 +593,8 @@ SUMMARY:Starfield
 UID:ef027117-ed16-43a0-a9ed-c61dbac20435
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: theflu124\nRun: 100% — Playstation 2\nHost: ThomasPatr
- ickWX\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: theflu124\nRun: 100% — PS2\nHost: ThomasPatrickWX\nSet
+ up Lenght: 0:15:00
 DTEND:20240116T232800Z
 DTSTART:20240116T214900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -783,8 +783,8 @@ SUMMARY:Satisfactory
 UID:07d5b331-9b6e-a849-d5aa-7d54b0aab16b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: JustNZane\, CScottyW\nRun: 100% NMG — Nintendo Switch\
- nHost: ThomasPatrickWX\nSetup Lenght: 0:20:00
+DESCRIPTION:Runner: JustNZane\, CScottyW\nRun: 100% NMG — Switch\nHost: Th
+ omasPatrickWX\nSetup Lenght: 0:20:00
 DTEND:20240117T185000Z
 DTSTART:20240117T165500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -793,18 +793,18 @@ SUMMARY:Metroid Dread
 UID:39f3752a-f7a1-f7f3-a4a8-0cfd40496084
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Shenanagans\, 360Chrism\nRun: Full Item Randomizer (co
- -op) — Gameboy Player\nHost: frozenflygone\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: Shenanagans\, 360Chrism\nRun: Full Item Randomizer (Co
+ -op) — GBC\nHost: frozenflygone\nSetup Lenght: 0:15:00
 DTEND:20240117T210000Z
 DTSTART:20240117T191000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Pokemon Crystal Randomizer
-UID:c2e5c38c-736d-b591-939b-89dc22edf3fe
+SUMMARY:Pokemon Crystal
+UID:8c608c40-4b35-1e59-60c6-d478b43b0574
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tonkotsu\nRun: Any% — Nintendo Switch\nHost: frozenfly
- gone\nSetup Lenght: 0:07:00
+DESCRIPTION:Runner: Tonkotsu\nRun: Any% — Switch\nHost: frozenflygone\nSet
+ up Lenght: 0:07:00
 DTEND:20240117T224500Z
 DTSTART:20240117T211500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -823,8 +823,8 @@ SUMMARY:Setup Flex Block - Wednesday
 UID:37fe82c2-7a15-c6e8-3fcf-110fef2f8059
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: SpitleSan\nRun: MST — Nintendo Wii\nHost: ateatree\nSe
- tup Lenght: 0:15:00
+DESCRIPTION:Runner: SpitleSan\nRun: MST — Wii\nHost: ateatree\nSetup Lengh
+ t: 0:15:00
 DTEND:20240118T020900Z
 DTSTART:20240117T235400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -833,8 +833,8 @@ SUMMARY:The Legend of Zelda: Ocarina of Time
 UID:435ac41c-8321-43cb-8af3-316cdafb1bc5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: CZR\nRun: 16 Star Drum% — Nintendo 64\nHost: ateatree\
- nSetup Lenght: 0:07:00
+DESCRIPTION:Runner: CZR\nRun: 16 Star Drum% — N64\nHost: ateatree\nSetup L
+ enght: 0:07:00
 DTEND:20240118T024800Z
 DTSTART:20240118T022400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -892,8 +892,8 @@ SUMMARY:Sneak King
 UID:fe2a2d22-932a-e86c-e891-e4629416bbdc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: infinitemystery\nRun: any% — game gear(av modded captu
- re)\nHost: Shado_Temple\nSetup Lenght: 0:11:00
+DESCRIPTION:Runner: infinitemystery\nRun: any% — Game Gear\nHost: Shado_Te
+ mple\nSetup Lenght: 0:11:00
 DTEND:20240118T075100Z
 DTSTART:20240118T073900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1012,9 +1012,8 @@ SUMMARY:COCOON
 UID:ac5f3e73-daf2-1140-d016-13d63b6a0ccd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Kobazco\, Mr_Shasta\, swordsmankirby\nRun: 3 Player co
- -op Any% — Gamecube (Game Boy Player)\nHost: Quacksilver\nSetup Lenght: 0
- :12:00
+DESCRIPTION:Runner: Kobazco\, Mr_Shasta\, swordsmankirby\nRun: 3 Player Co
+ -op Any% — GBA\nHost: Quacksilver\nSetup Lenght: 0:12:00
 DTEND:20240118T164100Z
 DTSTART:20240118T161600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1043,8 +1042,8 @@ SUMMARY:Celeste Strawberry Jam Collab
 UID:5ff49c13-e440-1bc2-096a-6f72cd1c0c44
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: sbeveSB\nRun: 120 Shines — Nintendo GameCube\nHost: Pi
- ppyInATopHat\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: sbeveSB\nRun: 120 Shines — GC\nHost: PippyInATopHat\nS
+ etup Lenght: 0:15:00
 DTEND:20240118T221900Z
 DTSTART:20240118T191400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1073,8 +1072,8 @@ SUMMARY:Armored Core VI: Fires of Rubicon
 UID:299b3f4f-bcb2-7e7a-ba10-a525eb6db9d5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: CarlSagan42\nRun: Glitch Showcase — Nintendo Switch\nH
- ost: Brutal_Melo\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: CarlSagan42\nRun: Glitch Showcase — Switch\nHost: Brut
+ al_Melo\nSetup Lenght: 0:15:00
 DTEND:20240119T020300Z
 DTSTART:20240119T013300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1113,8 +1112,8 @@ SUMMARY:Bomb Rush Cyberfunk
 UID:0ab9d816-44e1-c1ea-d31f-ebe04cc0fa10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Yoranto\nRun: any% — PS4Pro\nHost: Critique Quartz\nSe
- tup Lenght: 0:15:00
+DESCRIPTION:Runner: Yoranto\nRun: any% — PS4\nHost: Critique Quartz\nSetup
+  Lenght: 0:15:00
 DTEND:20240119T080500Z
 DTSTART:20240119T053000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1153,8 +1152,8 @@ SUMMARY:Viewfinder
 UID:8d2fbb6a-7512-970f-81ee-bd0b871de8d1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Raine_BT\nRun: Any% — Ps4 Pro\nHost: j0kerr\nSetup Len
- ght: 0:07:00
+DESCRIPTION:Runner: Raine_BT\nRun: Any% — PS4\nHost: j0kerr\nSetup Lenght:
+  0:07:00
 DTEND:20240119T122600Z
 DTSTART:20240119T104600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1233,8 +1232,8 @@ SUMMARY:Setup Flex Block - Friday
 UID:0921d16f-4eba-7e14-cdaf-b431f19128c7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: JankPickle\nRun: Any% — Nintendo Switch\nHost: Mr. Gam
- e and Shout\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: JankPickle\nRun: Any% — Switch\nHost: Mr. Game and Sho
+ ut\nSetup Lenght: 0:15:00
 DTEND:20240119T233200Z
 DTSTART:20240119T214700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1273,8 +1272,8 @@ UID:99f4b3d6-1985-465e-20a7-0293475f8366
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Marco8641\, morpheus080\, popesquidward\, dopezzera\nR
- un: 100% NMG Relay — Wii Virtual Console\nHost: Brutal_Melo\, cartridgebl
- owers\nSetup Lenght: 0:07:00
+ un: 100% NMG Relay — Wii\nHost: Brutal_Melo\, cartridgeblowers\nSetup Len
+ ght: 0:07:00
 DTEND:20240120T083600Z
 DTSTART:20240120T034100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
