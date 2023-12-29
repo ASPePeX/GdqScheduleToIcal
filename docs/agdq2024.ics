@@ -839,8 +839,8 @@ DTEND:20240118T025400Z
 DTSTART:20240118T023000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Super Mario 64
-UID:ca1c4e13-42a0-1836-ac95-352e317cb099
+SUMMARY:BONUS GAME 2- Super Mario 64
+UID:709ce1f5-c057-31e1-d7aa-68b1896f605b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: dwangoAC\, TASBot\nRun: any% by Sniq — SNES\nHost: igg
@@ -1258,8 +1258,8 @@ DTEND:20240120T030500Z
 DTSTART:20240120T020500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Resident Evil 4 (2023) Separate Ways
-UID:f85e239f-1fa7-6e53-2d7c-68e187f4dc33
+SUMMARY:BONUS GAME 3- Resident Evil 4 (2023) Separate Ways
+UID:2d5327c5-84ae-7c13-530d-71528bd73288
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: People\nRun: Recap — Live\nHost: iggyzig\nSetup Lenght:
@@ -1438,8 +1438,8 @@ DTEND:20240120T235800Z
 DTSTART:20240120T232300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
-SUMMARY:Baldur's Gate 3
-UID:6c260a6d-1cb6-2733-7c39-21158f3e60a0
+SUMMARY:BONUS GAME 4- Baldur's Gate 3
+UID:336d21c5-1b6e-b6a4-a696-237bff5a8eb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: mitchflowerpower\nRun: Any% Good Ending — SNES\nHost: 
