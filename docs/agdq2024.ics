@@ -83,24 +83,18 @@ SUMMARY:Donkey Kong 64
 UID:4dceec9b-2788-1668-fed7-bb7e02af20ee
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 1- Sunday — Live\nHost: TheKingsPr
- ide\nSetup Lenght: 0:02:00
-DTEND:20240115T005300Z
+DESCRIPTION:Runner: Tech Crew\nRun: F-Zero</td>\n<td>Zachary Ewing</td>\n<
+ td rowspan="2" class="visible-lg text-center"> <i class="fa fa-clock-o te
+ xt-gdq-red" aria-hidden="true"></i> 0:10:00 </td>\n</tr>\n<tr class="seco
+ nd-row ">\n<td class="text-right "> <i class="fa fa-clock-o" aria-hidden=
+ "true"></i> 0:50:00 </td>\n<td>Grand Prix — SNES\nHost: TheKingsPride\nSe
+ tup Lenght: 0:33:00
+DTEND:20240115T011700Z
 DTSTART:20240115T002200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: Zachary Ewing\nRun: Grand Prix — SNES\nHost: TheKingsP
- ride\nSetup Lenght: 0:10:00
-DTEND:20240115T014500Z
-DTSTART:20240115T005500Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:F-Zero
-UID:eab9b1c2-8a29-1aa4-e656-073edee434be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ZELLLOOO\nRun: UV-Speed — PC\nHost: Prolix\nSetup Leng
@@ -333,24 +327,18 @@ SUMMARY:Final Fantasy XV: Royal Edition
 UID:4a93f423-2933-462f-336c-fb979edda7ee
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 2- Monday — Live\nHost: iggyzig\nS
- etup Lenght: 0:02:00
-DTEND:20240116T001300Z
+DESCRIPTION:Runner: Tech Crew\nRun: Sonic Adventure 2: Battle</td>\n<td>De
+ ku_sr</td>\n<td rowspan="2" class="visible-lg text-center"> <i class="fa 
+ fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:15:00 </td>\n</tr>\n<t
+ r class="second-row ">\n<td class="text-right "> <i class="fa fa-clock-o"
+  aria-hidden="true"></i> 0:40:00 </td>\n<td>Hero Story vs Dark Story: All
+  A-Ranks — PC\nHost: Char_bunny\nSetup Lenght: 0:56:00
+DTEND:20240115T233400Z
 DTSTART:20240115T231900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: Deku_sr\nRun: Hero Story vs Dark Story: All A-Ranks — 
- PC\nHost: Char_bunny\nSetup Lenght: 0:15:00
-DTEND:20240116T005500Z
-DTSTART:20240116T001500Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:Sonic Adventure 2: Battle
-UID:91f26fab-98d7-fc24-7682-1aba31a4c6ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Mitchriz\nRun: Any% All Skips — PC\nHost: Nichole Good
@@ -603,24 +591,18 @@ SUMMARY:Jak & Daxter: The Precursor Legacy
 UID:375e643a-5806-df37-74e0-d13b037b5151
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 3- Tuesday — Live\nHost: ThomasPat
- rickWX\nSetup Lenght: 0:02:00
-DTEND:20240117T004800Z
+DESCRIPTION:Runner: Tech Crew\nRun: Octopath Traveler II</td>\n<td>Sanjan<
+ /td>\n<td rowspan="2" class="visible-lg text-center"> <i class="fa fa-clo
+ ck-o text-gdq-red" aria-hidden="true"></i> 0:25:00 </td>\n</tr>\n<tr clas
+ s="second-row ">\n<td class="text-right "> <i class="fa fa-clock-o" aria-
+ hidden="true"></i> 1:30:00 </td>\n<td>Galdera — PC\nHost: frozenflygone\n
+ Setup Lenght: 0:51:00
+DTEND:20240117T004900Z
 DTSTART:20240116T235900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: Sanjan\nRun: Galdera — PC\nHost: frozenflygone\nSetup 
- Lenght: 0:25:00
-DTEND:20240117T022000Z
-DTSTART:20240117T005000Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:Octopath Traveler II
-UID:8b410b4b-9bf0-43ca-ec7f-dd260cd18efc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: arcalena\, trash_lapras\nRun: 3 weapons race (Modded) 
@@ -813,24 +795,18 @@ SUMMARY:Mario & Luigi: Superstar Saga
 UID:dde54b15-3323-942d-67b0-c8648bc1c662
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 4- Wednesday — Live\nHost: ateatre
- e\nSetup Lenght: 0:02:00
-DTEND:20240117T235800Z
+DESCRIPTION:Runner: Tech Crew\nRun: The Legend of Zelda: Ocarina of Time</
+ td>\n<td>SpitleSan</td>\n<td rowspan="2" class="visible-lg text-center"> 
+ <i class="fa fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:15:00 </t
+ d>\n</tr>\n<tr class="second-row ">\n<td class="text-right "> <i class="f
+ a fa-clock-o" aria-hidden="true"></i> 2:15:00 </td>\n<td>MST — Wii\nHost:
+  ateatree\nSetup Lenght: 0:56:00
+DTEND:20240117T230400Z
 DTSTART:20240117T230400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: SpitleSan\nRun: MST — Wii\nHost: ateatree\nSetup Lengh
- t: 0:15:00
-DTEND:20240118T021500Z
-DTSTART;VALUE=DATE:20240118
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:The Legend of Zelda: Ocarina of Time
-UID:435ac41c-8321-43cb-8af3-316cdafb1bc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: CZR\nRun: 16 Star Drum% — N64\nHost: ateatree\nSetup L
@@ -1052,24 +1028,18 @@ SUMMARY:Super Mario Sunshine
 UID:33f1d088-8da7-8584-60df-1cd87cfcdc40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 5- Thursday — Live\nHost: Mr. Game
-  and Shout\nSetup Lenght: 0:02:00
-DTEND:20240118T233800Z
+DESCRIPTION:Runner: Tech Crew\nRun: Armored Core VI: Fires of Rubicon</td>
+ \n<td>Raine_BT</td>\n<td rowspan="2" class="visible-lg text-center"> <i c
+ lass="fa fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:07:00 </td>\n
+ </tr>\n<tr class="second-row ">\n<td class="text-right "> <i class="fa fa
+ -clock-o" aria-hidden="true"></i> 1:50:00 </td>\n<td>NG+ Any% True Ending
+  — PC\nHost: Mr. Game and Shout\nSetup Lenght: 1:00:00
+DTEND:20240119T222000Z
 DTSTART:20240118T224000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: Raine_BT\nRun: NG+ Any% True Ending — PC\nHost: Mr. Ga
- me and Shout\nSetup Lenght: 0:07:00
-DTEND:20240119T013000Z
-DTSTART:20240118T234000Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:Armored Core VI: Fires of Rubicon
-UID:299b3f4f-bcb2-7e7a-ba10-a525eb6db9d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: CarlSagan42\nRun: Glitch Showcase — Switch\nHost: Brut
@@ -1222,24 +1192,18 @@ SUMMARY:Risk of Rain Returns
 UID:8cc14aab-76c8-83f1-b526-eb82b8221f93
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 6- Friday — Live\nHost: Mr. Game a
- nd Shout\nSetup Lenght: 0:02:00
-DTEND:20240119T213800Z
+DESCRIPTION:Runner: Tech Crew\nRun: Super Mario Bros. Wonder</td>\n<td>Jan
+ kPickle</td>\n<td rowspan="2" class="visible-lg text-center"> <i class="f
+ a fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:15:00 </td>\n</tr>\n
+ <tr class="second-row ">\n<td class="text-right "> <i class="fa fa-clock-
+ o" aria-hidden="true"></i> 1:45:00 </td>\n<td>Any% — Switch\nHost: Mr. Ga
+ me and Shout\nSetup Lenght: 0:56:00
+DTEND:20240120T182400Z
 DTSTART:20240119T204400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: JankPickle\nRun: Any% — Switch\nHost: Mr. Game and Sho
- ut\nSetup Lenght: 0:15:00
-DTEND:20240119T232500Z
-DTSTART:20240119T214000Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:Super Mario Bros. Wonder
-UID:1defdde6-37b1-735f-484e-569d69a81d69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: spicee\nRun: New Game Professional Any% — PC\nHost: ig
@@ -1412,24 +1376,18 @@ SUMMARY:Lies of P
 UID:b72a47b7-4175-8376-dac4-94d27cbe52b3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: Tech Crew\nRun: Day 7- Saturday — Live\nHost: Xenadir\
- nSetup Lenght: 0:02:00
-DTEND:20240120T215800Z
+DESCRIPTION:Runner: Tech Crew\nRun: Lost Judgment</td>\n<td>Froob</td>\n<t
+ d rowspan="2" class="visible-lg text-center"> <i class="fa fa-clock-o tex
+ t-gdq-red" aria-hidden="true"></i> 0:33:00 </td>\n</tr>\n<tr class="secon
+ d-row ">\n<td class="text-right "> <i class="fa fa-clock-o" aria-hidden="
+ true"></i> 1:00:00 </td>\n<td>Kaito Files Any% — PC\nHost: Bobby Blackwol
+ f\nSetup Lenght: 0:51:00
+DTEND:20240121T190900Z
 DTSTART:20240120T210900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
 UID:d288060b-a432-a738-e9ea-c413871f8255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Runner: Froob\nRun: Kaito Files Any% — PC\nHost: Bobby Blackwo
- lf\nSetup Lenght: 0:33:00
-DTEND:20240120T230000Z
-DTSTART:20240120T220000Z
-LOCATION:https://www.twitch.tv/gamesdonequick
-SEQUENCE:0
-SUMMARY:Lost Judgment
-UID:6becc13d-13f9-be80-4f28-16b3e99bc14f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: gymnast86\nRun: Any% — Nintendo Switch\nHost: Kungfufr
