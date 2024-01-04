@@ -898,8 +898,8 @@ SUMMARY:Brilliant Bob
 UID:8edafdf8-2e99-3a46-7831-d4ec453de53a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: tbcr\nRun: Full Show — MS-DOS\nHost: Shado_Temple\nSet
- up Lenght: 0:07:00
+DESCRIPTION:Runner: tbcr\nRun: Full Show — MS-DOS\nHost: Peace Egg\nSetup 
+ Lenght: 0:07:00
 DTEND:20240118T093000Z
 DTSTART:20240118T090000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1152,8 +1152,8 @@ SUMMARY:Undertale
 UID:d85a7333-d912-c6e1-f6a5-361ad0713368
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: GlitchCat7\nRun: any% — SNES\nHost: CovertMuffin\nSetu
- p Lenght: 0:25:00
+DESCRIPTION:Runner: GlitchCat7\nRun: any% — SNES\nHost: ateatree\nSetup Le
+ nght: 0:25:00
 DTEND:20240119T165900Z
 DTSTART:20240119T160900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1287,7 +1287,7 @@ UID:b50bae6e-b1b9-0f81-b1c9-0bd3be6fc9a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: FFR Pro 21\nRun: Magical Tetris (Normal) — N64\nHost: 
- AttyJoe\nSetup Lenght: 0:11:00
+ Jaypeg\nSetup Lenght: 0:11:00
 DTEND:20240120T114000Z
 DTSTART:20240120T112500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1306,8 +1306,8 @@ SUMMARY:Go! Go! Hamster Chef!
 UID:3dcf0126-ed85-666b-9f97-76d6b23eefe0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: nyiddle\nRun: Any% Standard — PC\nHost: CovertMuffin\n
- Setup Lenght: 0:07:00
+DESCRIPTION:Runner: nyiddle\nRun: Any% Standard — PC\nHost: Jaypeg\nSetup 
+ Lenght: 0:07:00
 DTEND:20240120T133900Z
 DTSTART:20240120T122400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1317,7 +1317,8 @@ UID:ffecaac4-2484-f8b5-7166-b6485da3b3f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: itsflyingfox\, JoeyBaby69\, Sonikkustar\, SuperSonic\n
- Run: Anniversary Mode Relay — PC\nHost: Jaypeg\nSetup Lenght: 0:12:00
+ Run: Anniversary Mode Relay — PC\nHost: CovertMuffin\nSetup Lenght: 0:12:
+ 00
 DTEND:20240120T161600Z
 DTSTART:20240120T134600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1327,7 +1328,7 @@ UID:d7a766be-0baa-a442-af3c-6985e13b2de5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Kirbymastah\nRun: Normal Mode — New Nintendo 3DS\nHost
- : Bobby Blackwolf\nSetup Lenght: 0:18:00
+ : Xenadir\nSetup Lenght: 0:18:00
 DTEND:20240120T171800Z
 DTSTART:20240120T162800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1336,8 +1337,8 @@ SUMMARY:Fire Emblem Awakening
 UID:2b1d0734-e204-d49b-0178-0186680b3a7a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: kazn\nRun: All Cups(Skips) — Nintendo 64\nHost: Bobby 
- Blackwolf\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: kazn\nRun: All Cups(Skips) — Nintendo 64\nHost: Xenadi
+ r\nSetup Lenght: 0:15:00
 DTEND:20240120T180300Z
 DTSTART:20240120T173600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1366,8 +1367,8 @@ SUMMARY:Elden Ring vs Sekiro
 UID:dd88909f-7ce5-419d-995e-2a4c2df4c3e3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: blanxz\nRun: Any% — PC\nHost: Xenadir\nSetup Lenght: 0
- :18:00
+DESCRIPTION:Runner: blanxz\nRun: Any% — PC\nHost: Bobby Blackwolf\nSetup L
+ enght: 0:18:00
 DTEND:20240120T205100Z
 DTSTART:20240120T195100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1410,8 +1411,8 @@ SUMMARY:BONUS GAME 4- Baldur's Gate 3
 UID:336d21c5-1b6e-b6a4-a696-237bff5a8eb2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: People\nRun: Recap — Live\nHost: CovertMuffin\nSetup L
- enght: 0:10:00
+DESCRIPTION:Runner: People\nRun: Recap — Live\nHost: Prolix\nSetup Lenght:
+  0:10:00
 DTEND:20240121T020400Z
 DTSTART:20240121T014400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
