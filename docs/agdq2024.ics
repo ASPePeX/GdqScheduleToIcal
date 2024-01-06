@@ -218,7 +218,7 @@ UID:bf47e31b-dfe1-d30e-e7be-d87198af1725
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Blupee\nRun: any% — GC\nHost: Critique Quartz\nSetup L
- enght: 0:07:00
+ enght: 0:12:00
 DTEND:20240115T114700Z
 DTSTART:20240115T112200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -229,8 +229,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Mablak\nRun: Campaign (No Level Skips) — PC\nHost: Cri
  tique Quartz\nSetup Lenght: 0:07:00
-DTEND:20240115T124600Z
-DTSTART:20240115T115400Z
+DTEND:20240115T125100Z
+DTSTART:20240115T115900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Worms Reloaded
@@ -239,8 +239,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Corvimae\nRun: Any% Seeded — PC\nHost: Quacksilver\nSe
  tup Lenght: 0:28:00
-DTEND:20240115T133800Z
-DTSTART:20240115T125300Z
+DTEND:20240115T134300Z
+DTSTART:20240115T125800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Cassette Beasts
@@ -249,8 +249,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Derek_MK\nRun: Any% — GBA\nHost: Xenadir\nSetup Lenght
  : 0:10:00
-DTEND:20240115T142600Z
-DTSTART:20240115T140600Z
+DTEND:20240115T143100Z
+DTSTART:20240115T141100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:LEGO Bionicle
@@ -259,8 +259,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Ozmourn\nRun: Reverse Tree Order — PC\nHost: Xenadir\n
  Setup Lenght: 0:17:00
-DTEND:20240115T151100Z
-DTSTART:20240115T143600Z
+DTEND:20240115T151600Z
+DTSTART:20240115T144100Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Manifold Garden
@@ -269,8 +269,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Mickspad\nRun: any% — PS3\nHost: Xenadir\nSetup Lenght
  : 0:15:00
-DTEND:20240115T155800Z
-DTSTART:20240115T152800Z
+DTEND:20240115T160300Z
+DTSTART:20240115T153300Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:inFAMOUS: Festival of Blood
@@ -279,8 +279,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: ateatree\nRun: Escape+ — PC\nHost: cartridgeblowers\nS
  etup Lenght: 0:12:00
-DTEND:20240115T164800Z
-DTSTART:20240115T161300Z
+DTEND:20240115T165300Z
+DTSTART:20240115T161800Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:30XX
@@ -289,8 +289,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: KLM1187\nRun: Any% — NES\nHost: cartridgeblowers\nSetu
  p Lenght: 0:24:00
-DTEND:20240115T173800Z
-DTSTART:20240115T170000Z
+DTEND:20240115T174300Z
+DTSTART:20240115T170500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Mega Man 3
@@ -299,8 +299,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: MrCab55\nRun: Any% — Playstation\nHost: cartridgeblowe
  rs\nSetup Lenght: 0:15:00
-DTEND:20240115T185700Z
-DTSTART:20240115T180200Z
+DTEND:20240115T190200Z
+DTSTART:20240115T180700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Mega Man 8
@@ -309,8 +309,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: MrMiguel\nRun: 100% — GC\nHost: Threach\nSetup Lenght:
   0:15:00
-DTEND:20240115T213700Z
-DTSTART:20240115T191200Z
+DTEND:20240115T214200Z
+DTSTART:20240115T191700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Metroid Prime 2: Echoes
@@ -319,8 +319,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Kyoslilmonster\nRun: Any% — PC\nHost: iggyzig\nSetup L
  enght: 0:22:00
-DTEND:20240115T225700Z
-DTSTART:20240115T215200Z
+DTEND:20240115T230200Z
+DTSTART:20240115T215700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Final Fantasy XV: Royal Edition
@@ -332,9 +332,9 @@ DESCRIPTION:Runner: Tech Crew\nRun: Sonic Adventure 2: Battle</td>\n<td>De
  fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:15:00 </td>\n</tr>\n<t
  r class="second-row ">\n<td class="text-right "> <i class="fa fa-clock-o"
   aria-hidden="true"></i> 0:40:00 </td>\n<td>Hero Story vs Dark Story: All
-  A-Ranks — PC\nHost: Char_bunny\nSetup Lenght: 0:56:00
-DTEND:20240115T233400Z
-DTSTART:20240115T231900Z
+  A-Ranks — PC\nHost: Char_bunny\nSetup Lenght: 0:51:00
+DTEND:20240115T233900Z
+DTSTART:20240115T232400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
@@ -1123,7 +1123,7 @@ UID:8d2fbb6a-7512-970f-81ee-bd0b871de8d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Raine_BT\nRun: Any% — PS4\nHost: j0kerr\nSetup Lenght:
-  0:07:00
+  0:12:00
 DTEND:20240119T122500Z
 DTSTART:20240119T104500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -1134,8 +1134,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: shovelclaws\nRun: Any% — PC\nHost: j0kerr\nSetup Lengh
  t: 0:25:00
-DTEND:20240119T134700Z
-DTSTART:20240119T123200Z
+DTEND:20240119T135200Z
+DTSTART:20240119T123700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Spark the Electric Jester 3
@@ -1144,8 +1144,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Shayy\, mrlink2k\nRun: True Pacifist Glitchless Race —
   PC\nHost: ateatree\nSetup Lenght: 0:07:00
-DTEND:20240119T160200Z
-DTSTART:20240119T141200Z
+DTEND:20240119T160700Z
+DTSTART:20240119T141700Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Undertale
@@ -1154,8 +1154,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: GlitchCat7\nRun: any% — SNES\nHost: ateatree\nSetup Le
  nght: 0:25:00
-DTEND:20240119T165900Z
-DTSTART:20240119T160900Z
+DTEND:20240119T170400Z
+DTSTART:20240119T161400Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Luminescent
@@ -1164,8 +1164,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: Regole\nRun: Any% No Wrong Warp — PC\nHost: CovertMuff
  in\nSetup Lenght: 0:15:00
-DTEND:20240119T181900Z
-DTSTART:20240119T172400Z
+DTEND:20240119T182400Z
+DTSTART:20240119T172900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Dark Souls
@@ -1174,8 +1174,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: UnjustAction\, Deceptix_\nRun: 2 Player Co-op Any% — P
  C\nHost: CovertMuffin\nSetup Lenght: 0:18:00
-DTEND:20240119T195900Z
-DTSTART:20240119T183400Z
+DTEND:20240119T200400Z
+DTSTART:20240119T183900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Borderlands 2
@@ -1184,8 +1184,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: scaz\nRun: any% — PC\nHost: Mr. Game and Shout\nSetup 
  Lenght: 0:07:00
-DTEND:20240119T203700Z
-DTSTART:20240119T201700Z
+DTEND:20240119T204200Z
+DTSTART:20240119T202200Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Risk of Rain Returns
@@ -1197,9 +1197,9 @@ DESCRIPTION:Runner: Tech Crew\nRun: Super Mario Bros. Wonder</td>\n<td>Jan
  a fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:15:00 </td>\n</tr>\n
  <tr class="second-row ">\n<td class="text-right "> <i class="fa fa-clock-
  o" aria-hidden="true"></i> 1:45:00 </td>\n<td>Any% — Switch\nHost: Mr. Ga
- me and Shout\nSetup Lenght: 0:56:00
-DTEND:20240120T182400Z
-DTSTART:20240119T204400Z
+ me and Shout\nSetup Lenght: 0:51:00
+DTEND:20240120T182900Z
+DTSTART:20240119T204900Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
