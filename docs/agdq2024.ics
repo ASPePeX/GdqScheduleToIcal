@@ -979,7 +979,7 @@ UID:21b3029c-aab2-d64a-6cea-3894153cf244
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: talia\nRun: Beginner Lobby — PC\nHost: Quacksilver\nSe
- tup Lenght: 0:20:00
+ tup Lenght: 0:15:00
 DTEND:20240118T190500Z
 DTSTART:20240118T180500Z
 LOCATION:https://www.twitch.tv/gamesdonequick
@@ -990,8 +990,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: sblectric\nRun: 120 Shines — GC\nHost: PippyInATopHat\
  nSetup Lenght: 0:15:00
-DTEND:20240118T223000Z
-DTSTART:20240118T192500Z
+DTEND:20240118T222500Z
+DTSTART:20240118T192000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:Super Mario Sunshine
@@ -1003,9 +1003,9 @@ DESCRIPTION:Runner: Tech Crew\nRun: Armored Core VI: Fires of Rubicon</td>
  lass="fa fa-clock-o text-gdq-red" aria-hidden="true"></i> 0:07:00 </td>\n
  </tr>\n<tr class="second-row ">\n<td class="text-right "> <i class="fa fa
  -clock-o" aria-hidden="true"></i> 1:50:00 </td>\n<td>NG+ Any% True Ending
-  — PC\nHost: Mr. Game and Shout\nSetup Lenght: 0:55:00
-DTEND:20240119T222500Z
-DTSTART:20240118T224500Z
+  — PC\nHost: Mr. Game and Shout\nSetup Lenght: 1:00:00
+DTEND:20240119T222000Z
+DTSTART:20240118T224000Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:The Checkpoint
