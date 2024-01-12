@@ -789,14 +789,14 @@ SUMMARY:BONUS GAME 2- Super Mario 64
 UID:709ce1f5-c057-31e1-d7aa-68b1896f605b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Runner: dwangoAC\, TASBot\nRun: Any% by Sniq — SNES\nHost: igg
- yzig\nSetup Lenght: 0:15:00
+DESCRIPTION:Runner: dwangoAC\nRun: Any% by Sniq — SNES\nHost: iggyzig\nSet
+ up Lenght: 0:15:00
 DTEND:20240118T034100Z
 DTSTART:20240118T030600Z
 LOCATION:https://www.twitch.tv/gamesdonequick
 SEQUENCE:0
 SUMMARY:TASBot presents Super Metroid
-UID:5fa8a875-e035-6058-2659-bab9ddf23c67
+UID:4f9b7b4a-e0d4-7164-0ee0-11d29e17a3f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Runner: People\nRun: Recap — Live\nHost: iggyzig\nSetup Lenght:
